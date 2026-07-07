@@ -100,7 +100,13 @@ To allow WooCommerce to send new orders to this Google Sheet, we must publish th
 7. You will see a screen saying *"Google hasn't verified this app"*. Don't panic, this is normal since you wrote this code yourself. Click on the small **Advanced** link at the bottom left, then click **Go to Project (unsafe)**.
 8. Click **Allow** on the final permissions screen.
 
-![Step 9: Grant Google Security Permissions](./screenshots/09-security-permissions.png)
+![Step 9: Grant Google Security Permissions](./screenshots/09-security-permissions-1.png)
+
+![Step 9: Grant Google Security Permissions](./screenshots/09-security-permissions-2.png)
+
+![Step 9: Grant Google Security Permissions](./screenshots/09-security-permissions-3.png)
+
+![Step 9: Grant Google Security Permissions](./screenshots/09-security-permissions-4.png)
 
 9. Once successful, you will see a window titled "New deployment". Look for the section called **Web app**, and copy the long **URL** that ends with `/exec`.
 10. Save this Web App URL in your temporary Notepad file. This is your sheet's secret entry portal.
