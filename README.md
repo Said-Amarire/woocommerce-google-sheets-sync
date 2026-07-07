@@ -90,7 +90,10 @@ To allow WooCommerce to send new orders to this Google Sheet, we must publish th
 
 4. Click the blue **Deploy** button.
 
-![Step 8: Configure Deployment Settings](./screenshots/08-configure-deployment.png)
+![Step 8: Configure Deployment Settings](./screenshots/08-configure-deployment-1.png)
+
+![Step 8: Configure Deployment Settings](./screenshots/08-configure-deployment-2.png)
+
 
 5. Google will pop up a window asking for authorization. Click the **Authorize access** button.
 6. Select your Google account.
